@@ -1,0 +1,22 @@
+# Superpowers / brainstorming / planning artifacts
+# Local thinking + design docs that should never reach the origin repo.
+
+# Common dedicated directories
+brainstorm/
+brainstorms/
+brainstorming/
+.brainstorm/
+.superpowers/
+.plans/
+docs/brainstorm/
+docs/brainstorms/
+docs/brainstorming/
+docs/plans/
+
+# Filename patterns (any directory)
+*.brainstorm.md
+*.brainstorming.md
+*.plan.md
+BRAINSTORM.md
+BRAINSTORMING.md
+PLAN.md
